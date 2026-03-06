@@ -30,22 +30,6 @@ This project helped me understand:
 
 ---
 
-## 🧩 Project Structure
-
-
-├── components
-│ ├── Header.jsx
-│ └── Entry.jsx
-├── images
-│ ├── globe.png
-│ └── marker.png
-├── data.js
-├── App.jsx
-├── index.jsx
-├── index.css
-└── index.html
-
-
 **Main components**
 
 - `Header.jsx` – Displays the application header
